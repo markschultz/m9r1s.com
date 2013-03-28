@@ -1,0 +1,10 @@
+---
+layout: post
+title: "test"
+date: 2013-03-14 17:17
+comments: true
+categories: test
+---
+This is test text
+
+{% render_partial test.lhs %}
